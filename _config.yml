@@ -1,0 +1,41 @@
+version: 1.1.0
+title: Shih-Ling Shen
+email:  shihling.shen@icloud.com
+description: > # this means to ignore newlines until "baseurl:"
+  Shih-Ling's Personal Website.
+url: "https://shihlings.github.io"
+lang: en # site language (en/ja/zh-Hans/zh-Hant)
+color_scheme: github # this specifies color scheme for syntax highlighting
+github_username: shihlings
+linkedin_username: shih-ling-shen
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - template.md
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      sitemap: true
+  - scope: # stuff under categories folder
+      path: "documents/_posts/categories"
+    values:
+      permalink: /documents/:title/
+  - scope: # stuff under _posts folder
+      path: "articles/_posts"
+    values:
+      layout: post
+      category: articles
+      permalink: /:categories/:year/:title:output_ext
+  - scope: # stuff under _posts folder
+      path: "documents/_posts"
+    values:
+      layout: post
+      category: uncategorized
+      permalink: /:categories/:year/:title:output_ext
