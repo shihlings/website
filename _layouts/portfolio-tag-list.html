@@ -6,12 +6,7 @@ layout: default
 
 <article class="page" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting">
   {% include portfolio-post-header.html %}
-  Here are some projects that I contributed to. Click on the links to view more information on the projects.
-  <h3 id="filter-by-tags">Filter by tags:</h3>
-  <ul>
-    <li>Time: <a href="/portfolio/">All</a>, <a href="/portfolio/tags/current-project">Current</a>, <a href="/portfolio/tags/2024-project">2024</a>, <a href="/portfolio/tags/2023-project">2023</a>, <a href="/portfolio/tags/2022-project">2022</a>, <a href="/portfolio/tags/2021-project">2021</a></li>
-    <li>Type: <a href="/portfolio/">All</a>, <a href="/portfolio/tags/design-team">Design Teams</a>, <a href="/portfolio/tags/course-project">Course Projects</a>, <a href="/portfolio/tags/personal-project">Personal Projects</a>, <a href="/portfolio/tags/job-project">Job Projects</a></li>
-  </ul>
+  {% include portfolio-tag-selector.html %}
 </article>
 
 <ul class="post-list">
