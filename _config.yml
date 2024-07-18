@@ -1,4 +1,4 @@
-version: 1.2.0
+version: 1.3.0
 title: Shih-Ling Shen
 email:  shihling@shihling.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -23,19 +23,8 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       sitemap: true
-  - scope: # stuff under categories folder
-      path: "documents/_posts/categories"
-    values:
-      permalink: /documents/:title/
   - scope: # stuff under _posts folder
-      path: "articles/_posts"
+      path: "portfolio/_posts"
     values:
       layout: post
-      category: articles
-      permalink: /:categories/:year/:title:output_ext
-  - scope: # stuff under _posts folder
-      path: "documents/_posts"
-    values:
-      layout: post
-      category: uncategorized
       permalink: /:categories/:year/:title:output_ext
