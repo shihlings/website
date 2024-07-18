@@ -17,6 +17,7 @@ exclude:
   - template.md
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 defaults:
   - scope:
@@ -35,6 +36,12 @@ defaults:
       permalink: /:categories/:year/:title:output_ext
   - scope: # stuff under _posts folder
       path: "documents/_posts"
+    values:
+      layout: post
+      category: uncategorized
+      permalink: /:categories/:year/:title:output_ext
+  - scope: # stuff under _posts folder
+      path: "portfolio/_posts"
     values:
       layout: post
       category: uncategorized

@@ -4,7 +4,15 @@ layout: default
 
 {% include site-nav.html %}
 
-{% include header.html %}
+<article class="page" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting">
+  {% include header.html %}
+  
+  <h3 id="filter-by-tags">Filter by tags:</h3>
+  <ul>
+    <li>Time: <a href="/portfolio/">All</a>, <a href="/tags/current-project">Current</a>, <a href="/tags/2024-project">2024</a>, <a href="/tags/2023-project">2023</a>, <a href="/tags/2022-project">2022</a>, <a href="/tags/2021-project">2021</a></li>
+    <li>Type: <a href="/portfolio/">All</a>, <a href="/tags/design-team">Design Teams</a>, <a href="/tags/course-project">Course Projects</a>, <a href="/tags/personal-project">Personal Projects</a>, <a href="/tags/job-project">Job Projects</a></li>
+  </ul>
+</article>
 
 <ul class="post-list">
   {% for rule in page.filter %}
@@ -28,7 +36,7 @@ layout: default
   {% else %}
   {% assign posts = site.posts %}
   {% endif %}
-  {% for post in posts reversed %}
+  {% for post in posts %}
   <li class="post-list-item" data-tags="{{ post.tags | join: " " }}">
     {% if post.cover_url %}
     <div class="post-item-cover" style="background-image: url('{{ post.cover_url }}')"></div>
@@ -40,9 +48,9 @@ layout: default
       {% if post.description %}
       <p class="post-description">{{ post.description }}</p>
       {% endif %}
-      {% if post.brief-tag %}
+      {% if post.start-date %}
       <div class="post-item-meta">
-        {{ post.brief-tag }}
+        {{ post.start-date }} - {{ post.end-date }}
       </div>
       {% endif %}
     </div>
