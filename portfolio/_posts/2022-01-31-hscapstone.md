@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio-post
 title: Grade 12 Capstone - Exploring the Potentials of a Microcontroller
 description: A self-directed project exploring the potential applications of a microcontroller using a Raspberry Pi Pico as a personal introduction to hardware computing. 
 start-date: "Sep 2021"

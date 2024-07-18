@@ -4,7 +4,15 @@ layout: default
 
 {% include site-nav.html %}
 
-{% include header.html %}
+<article class="page" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting">
+  {% include portfolio-post-header.html %}
+  Here are some projects that I contributed to. Click on the links to view more information on the projects.
+  <h3 id="filter-by-tags">Filter by tags:</h3>
+  <ul>
+    <li>Time: <a href="/portfolio/">All</a>, <a href="/portfolio/tags/current-project">Current</a>, <a href="/portfolio/tags/2024-project">2024</a>, <a href="/portfolio/tags/2023-project">2023</a>, <a href="/portfolio/tags/2022-project">2022</a>, <a href="/portfolio/tags/2021-project">2021</a></li>
+    <li>Type: <a href="/portfolio/">All</a>, <a href="/portfolio/tags/design-team">Design Teams</a>, <a href="/portfolio/tags/course-project">Course Projects</a>, <a href="/portfolio/tags/personal-project">Personal Projects</a>, <a href="/portfolio/tags/job-project">Job Projects</a></li>
+  </ul>
+</article>
 
 <ul class="post-list">
   {% for rule in page.filter %}
@@ -40,19 +48,14 @@ layout: default
       {% if post.description %}
       <p class="post-description">{{ post.description }}</p>
       {% endif %}
+      {% if post.start-date %}
       <div class="post-item-meta">
-        {{ post.date | date: "%B %-d, %Y" }}
-        /
-        {% capture lang %}{{ post.lang | default: site.lang | default: "en" }}{% endcapture %}
-        {% if lang == "en" %}
-        {% capture words %}{{ post.content | strip_html | number_of_words  }}{% endcapture %}
-        {% else %}
-        {% capture words %}{{ post.content | strip_html | size }}{% endcapture %}
+        {{ post.start-date }}
+        {% if post.end-date %}
+         - {{ post.end-date }}
         {% endif %}
-        {% unless words contains "-" %}
-        {{ words | plus: 250 | divided_by: 250 | append: " minute read"  }}
-        {% endunless %}
       </div>
+      {% endif %}
     </div>
   </li>
   {% endfor %}

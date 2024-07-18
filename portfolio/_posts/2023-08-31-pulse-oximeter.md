@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio-post
 title: Pulse Oximeter
 description: A personal project to design and programme an ESP32 Dev Board, a MAX30102 sensor, a push button, and an OLED Display to measure heart rate and SpO2. 
 start-date: "Jun 2023"

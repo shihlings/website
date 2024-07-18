@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio-post
 title: UBC Sailbot
 description: A student design team at the University of British Columbia focusing on the design and construction of autonomous sailboats. We are currently building a fully autonomous research vessel from scratch to collect oceanic and atmospheric data in extreme environments for marine researchers. For more information about my role at UBC Sailbot, please visit the resume section. 
 start-date: "Sep 2022"

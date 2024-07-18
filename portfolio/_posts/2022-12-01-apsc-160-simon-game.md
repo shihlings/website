@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio-post
 title: Simon Game
 description: A laboratory to design a resilient and highly responsive Arduino Sketch for a Simon Game that dynamically escalates in complexity with each successive round, enhancing the challenge for players. 
 start-date: "Nov 2022"
