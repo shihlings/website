@@ -24,4 +24,4 @@ tags:
 - **Project Website:** [www.ubcsailbot.org](https://www.ubcsailbot.org)
 
 ## Photo Gallery
-![image info](https://media.shihling.com/portfolio/sailbot/team.jpg)
+![image info](/img/elec.jpg)
