@@ -4,5 +4,8 @@ title: Resume
 navbar_title: Resume
 ---
 
-## Page under construction.
-Check back later. [See the pdf version of my resume here.](https://media.shihling.com/appendices/resume.pdf){:target="_blank"}
+[Open resume in new tab.]({{ site.resume_link }}){:target="_blank"}
+{:style="text-align:center;"}
+
+
+<object data="{{ site.resume_link }}" width="100%" height="1300" type="application/pdf"></object>
