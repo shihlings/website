@@ -14,3 +14,14 @@ tags:
     - design-team
 ---
 
+## Overview
+- **Category:** Engineering Design Team
+- **Time:** Sep 2022 - Current
+- **Current Position:** Electrical Team Lead
+- **Previous Positions:**
+    - Electrical Team Communication Systems Project Lead (Aug 2023 - Mar 2024)
+    - Electrical Team Member - Communication Systems (Sep 2022 - Aug 2023) 
+- **Project Website:** [www.ubcsailbot.org](https://www.ubcsailbot.org)
+
+## Photo Gallery
+![image info](https://media.shihling.com/portfolio/sailbot/team.jpg)
