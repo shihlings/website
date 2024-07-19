@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /portfolio/*
+Allow: /portfolio/index.html
+Sitemap: https://shihling.com/sitemap.xml
