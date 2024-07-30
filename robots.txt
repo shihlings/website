@@ -1,6 +1,8 @@
 User-agent: *
 Disallow: /portfolio/assets/*
 Disallow: /portfolio/tags/*
+Disallow: /resume/assets/*
 Disallow: /assets/*
-Allow: /portfolio/index.html
+Disallow: debug.html
+Disallow: 404.html
 Sitemap: https://shihling.com/sitemap.xml
