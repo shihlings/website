@@ -1,4 +1,4 @@
-version: 1.3.1
+version: 1.4.0
 title: Shih-Ling Shen
 email:  shihling@shihling.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,7 +8,6 @@ lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
 github_username: shihlings
 linkedin_username: shih-ling-shen
-resume_link: https://media.shihling.com/resume/resume.pdf
 
 # Build settings
 markdown: kramdown
