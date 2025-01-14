@@ -79,6 +79,10 @@ hardware accelerator written with VHDL and SystemVerilog for the DE1-SoC<br>
         <td><center>2024</center></td>
     </tr>
     <tr>
+        <td>2022W Dean’s Honour List</td>
+        <td><center>2023</center></td>
+    </tr>
+    <tr>
         <td>Outstanding International Student Award</td>
         <td><center>2022</center></td>
     </tr>
