@@ -3,6 +3,6 @@ Disallow: /portfolio/assets/*
 Disallow: /portfolio/tags/*
 Disallow: /resume/assets/*
 Disallow: /assets/*
-Disallow: debug.html
-Disallow: 404.html
+Disallow: /debug.html
+Disallow: /404.html
 Sitemap: https://shihling.com/sitemap.xml
