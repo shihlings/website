@@ -15,26 +15,19 @@ navbar_title: Resume
 - **ASIC Digital Design/Verification Intern** <br>
   [**_Synopsys, Inc._**](https://www.synopsys.com/){:target="_blank"} <br>
   Jan 2025 - Current <br>
-  
-- [**APSC 160 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"} <br>
-  [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
-  Sep 2024 - Dec 2024 <br>
-  - 2024W1 APSC 160 - Introduction to Computation in Engineering Design<br><br>
-  
-- [**CPSC 259 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpscv-259){:target="_blank"} <br>
-  [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
-  Sep 2024 - Dec 2024 <br>
-  - 2024W1 CPSC 259 - Data Structures and Algorithms for Electrical Engineers<br><br>
+  - Designing and verifying current and next generation Backplane Ethernet, PCIe, SATA, and USB 2/3 SERDES products<br><br>
 
-- [**ELEC 202 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/elecv-202){:target="_blank"} <br>
+- **APSC 160 & CPSC 259 & ELEC 202 - Undergraduate Teaching Assistant I** <br>
   [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
   Sep 2024 - Dec 2024 <br>
-  - 2024W1 ELEC 202 - Circuit Analysis II<br><br>
+  - 2024W1 [APSC 160 - Introduction to Computation in Engineering Design](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"}
+  - 2024W1 [CPSC 259 - Data Structures and Algorithms for Electrical Engineers](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpscv-259){:target="_blank"}
+  - 2024W1 [ELEC 202 - Circuit Analysis II](https://vancouver.calendar.ubc.ca/course-descriptions/courses/elecv-202){:target="_blank"} <br><br>
 
-- [**APSC 160 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"} <br>
+- **APSC 160 - Undergraduate Teaching Assistant I** <br>
   [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
   Sep 2023 - Dec 2023 <br>
-  - 2023W1 APSC 160 - Introduction to Computation in Engineering Design
+  - 2023W1 [APSC 160 - Introduction to Computation in Engineering Design](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"}
 
 <hr><center><h2>Engineering Design Team</h2></center><hr>
 - **Electrical Team Lead** <br>
@@ -71,16 +64,16 @@ hardware accelerator written with VHDL and SystemVerilog for the DE1-SoC<br>
 <hr><center><h2>Awards</h2></center><hr>
 <table style="margin-left: auto; margin-right: auto;width: 85%">
     <tr>
+        <td>Kenneth George VanSacker Memorial Scholarship</td>
+        <td><center>2025</center></td>
+    </tr>
+    <tr>
         <td>Dean’s Honour List</td>
         <td><center>2023, 2024</center></td>
     </tr>
     <tr>
         <td>Rogers Communication Inc Scholarship</td>
         <td><center>2024</center></td>
-    </tr>
-    <tr>
-        <td>2022W Dean’s Honour List</td>
-        <td><center>2023</center></td>
     </tr>
     <tr>
         <td>Outstanding International Student Award</td>
