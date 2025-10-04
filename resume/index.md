@@ -16,22 +16,22 @@ navbar_title: Resume
   [**_Synopsys, Inc._**](https://www.synopsys.com/){:target="_blank"} <br>
   Jan 2025 - Current <br>
   
-- [**APSC 160 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160-introduction-computation-engineering-design){:target="_blank"} <br>
+- [**APSC 160 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"} <br>
   [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
   Sep 2024 - Dec 2024 <br>
   - 2024W1 APSC 160 - Introduction to Computation in Engineering Design<br><br>
   
-- [**CPSC 259 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpscv-259-data-structures-and-algorithms-electrical-engineers){:target="_blank"} <br>
+- [**CPSC 259 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpscv-259){:target="_blank"} <br>
   [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
   Sep 2024 - Dec 2024 <br>
   - 2024W1 CPSC 259 - Data Structures and Algorithms for Electrical Engineers<br><br>
 
-- [**ELEC 202 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/elecv-202-circuit-analysis-ii){:target="_blank"} <br>
+- [**ELEC 202 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/elecv-202){:target="_blank"} <br>
   [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
   Sep 2024 - Dec 2024 <br>
   - 2024W1 ELEC 202 - Circuit Analysis II<br><br>
 
-- [**APSC 160 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160-introduction-computation-engineering-design){:target="_blank"} <br>
+- [**APSC 160 - Undergraduate Teaching Assistant I**](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"} <br>
   [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
   Sep 2023 - Dec 2023 <br>
   - 2023W1 APSC 160 - Introduction to Computation in Engineering Design
