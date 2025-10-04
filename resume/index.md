@@ -12,7 +12,7 @@ navbar_title: Resume
   Sep 2022 - May 2027
 
 <hr><center><h2>Work Experience</h2></center><hr>
-- **ASIC Digital Design Engineer Intern** <br>
+- **ASIC Digital Design/Verification Intern** <br>
   [**_Synopsys, Inc._**](https://www.synopsys.com/){:target="_blank"} <br>
   Jan 2025 - Current <br>
   
