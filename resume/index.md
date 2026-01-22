@@ -15,19 +15,17 @@ navbar_title: Resume
 - **ASIC Digital Design/Verification Intern** <br>
   [**_Synopsys, Inc._**](https://www.synopsys.com/){:target="_blank"} <br>
   Jan 2025 - Current <br>
-  - Designing and verifying current and next generation Backplane Ethernet, PCIe, SATA, and USB 2/3 SERDES products<br><br>
+  - Designed and verified features within [224G Ethernet PHY IP](https://www.synopsys.com/designware-ip/interface-ip/ethernet/224g-ethernet-phy-ip.html){:target="_blank"} transmitter and receiver blocks
+  - Utilized [PrimeTime](https://www.synopsys.com/implementation-and-signoff/signoff/primetime.html){:target="_blank"} and [PrimePower](https://www.synopsys.com/implementation-and-signoff/signoff/primepower.html){:target="_blank"} for power estimation and generating power waveforms
+  - Implemented [VC SpyGlass LINT](https://www.synopsys.com/verification/static-and-formal-verification/vc-spyglass.html){:target="_blank"} flows to improve RTL quality and identify design issues
+  - Developed UVM testbenches for generating and verifying ATE test vectors through JTAG and APB<br><br>
 
-- **APSC 160 & CPSC 259 & ELEC 202 - Undergraduate Teaching Assistant I** <br>
+- **Undergraduate Teaching Assistant I** <br>
   [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
-  Sep 2024 - Dec 2024 <br>
-  - 2024W1 [APSC 160 - Introduction to Computation in Engineering Design](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"}
+  Sep 2023 - Dec 2023, Sep 2024 - Dec 2024 <br>
+  - 2024W1 [ELEC 202 - Circuit Analysis II](https://vancouver.calendar.ubc.ca/course-descriptions/courses/elecv-202){:target="_blank"}
   - 2024W1 [CPSC 259 - Data Structures and Algorithms for Electrical Engineers](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpscv-259){:target="_blank"}
-  - 2024W1 [ELEC 202 - Circuit Analysis II](https://vancouver.calendar.ubc.ca/course-descriptions/courses/elecv-202){:target="_blank"} <br><br>
-
-- **APSC 160 - Undergraduate Teaching Assistant I** <br>
-  [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
-  Sep 2023 - Dec 2023 <br>
-  - 2023W1 [APSC 160 - Introduction to Computation in Engineering Design](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"}
+  - 2024W1, 2023W1 [APSC 160 - Introduction to Computation in Engineering Design](https://vancouver.calendar.ubc.ca/course-descriptions/courses/apscv-160){:target="_blank"} <br><br>
 
 <hr><center><h2>Engineering Design Team</h2></center><hr>
 - **Electrical Team Lead** <br>
