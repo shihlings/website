@@ -20,7 +20,7 @@ navbar_title: Resume
   - Implemented [VC SpyGlass LINT](https://www.synopsys.com/verification/static-and-formal-verification/vc-spyglass.html){:target="_blank"} flows to improve RTL quality and identify design issues
   - Developed UVM testbenches for generating and verifying ATE test vectors through JTAG and APB<br><br>
 
-- **ELEC 202 - Undergraduate Teaching Assistant I** <br>
+- **Undergraduate Teaching Assistant I** <br>
   [**_University of British Columbia_**](https://www.ubc.ca/){:target="_blank"} <br>
   Sep 2023 - Dec 2023, Sep 2024 - Dec 2024 <br>
   - 2024W1 [ELEC 202 - Circuit Analysis II](https://vancouver.calendar.ubc.ca/course-descriptions/courses/elecv-202){:target="_blank"}
